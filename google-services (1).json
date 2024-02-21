@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "598354260642",
+    "firebase_url": "https://music-app-60293-default-rtdb.firebaseio.com",
+    "project_id": "music-app-60293",
+    "storage_bucket": "music-app-60293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598354260642:android:71fdf4a76fb0f88bda1dfb",
+        "android_client_info": {
+          "package_name": "kick_play.sam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmloW9oeYQEOUqxeyrJ3HQaWSD-w9PJss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
